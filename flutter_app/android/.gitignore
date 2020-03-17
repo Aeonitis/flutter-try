@@ -1,7 +1,9 @@
-gradle-wrapper.jar
+# AppCenter/Android related, commented out for AppCenter to be able to find this Android app
+#gradle-wrapper.jar
+#/gradlew
+#/gradlew.bat
+
 /.gradle
 /captures/
-/gradlew
-/gradlew.bat
 /local.properties
 GeneratedPluginRegistrant.java
